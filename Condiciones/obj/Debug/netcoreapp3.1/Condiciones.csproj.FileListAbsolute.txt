@@ -1,0 +1,13 @@
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.exe
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.deps.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.runtimeconfig.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.runtimeconfig.dev.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\bin\Debug\netcoreapp3.1\Condiciones.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.csprojAssemblyReference.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.AssemblyInfoInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.AssemblyInfo.cs
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Condiciones\obj\Debug\netcoreapp3.1\Condiciones.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.csprojAssemblyReference.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.AssemblyInfoInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.AssemblyInfo.cs
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.exe
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.deps.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.runtimeconfig.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.runtimeconfig.dev.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\bin\Debug\netcoreapp3.1\Using.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Using\obj\Debug\netcoreapp3.1\Using.genruntimeconfig.cache

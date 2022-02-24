@@ -1,0 +1,13 @@
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\bin\Debug\netcoreapp3.1\Mi Primer Proyecto.exe
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\bin\Debug\netcoreapp3.1\Mi Primer Proyecto.deps.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\bin\Debug\netcoreapp3.1\Mi Primer Proyecto.runtimeconfig.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\bin\Debug\netcoreapp3.1\Mi Primer Proyecto.runtimeconfig.dev.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\bin\Debug\netcoreapp3.1\Mi Primer Proyecto.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\bin\Debug\netcoreapp3.1\Mi Primer Proyecto.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.csprojAssemblyReference.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.AssemblyInfoInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.AssemblyInfo.cs
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Mi Primer Proyecto\obj\Debug\netcoreapp3.1\Mi Primer Proyecto.genruntimeconfig.cache

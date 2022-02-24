@@ -1,0 +1,13 @@
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.csprojAssemblyReference.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.AssemblyInfoInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.AssemblyInfo.cs
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\bin\Debug\netcoreapp3.1\Tipos De Datos.exe
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\bin\Debug\netcoreapp3.1\Tipos De Datos.deps.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\bin\Debug\netcoreapp3.1\Tipos De Datos.runtimeconfig.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\bin\Debug\netcoreapp3.1\Tipos De Datos.runtimeconfig.dev.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\bin\Debug\netcoreapp3.1\Tipos De Datos.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\bin\Debug\netcoreapp3.1\Tipos De Datos.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\Tipos De Datos\obj\Debug\netcoreapp3.1\Tipos De Datos.genruntimeconfig.cache

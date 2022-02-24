@@ -1,0 +1,13 @@
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.csprojAssemblyReference.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.AssemblyInfoInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.AssemblyInfo.cs
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.csproj.CoreCompileInputs.cache
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.exe
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.deps.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.runtimeconfig.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.runtimeconfig.dev.json
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\bin\Debug\netcoreapp3.1\LeerTeclado.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.dll
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.pdb
+G:\Mi unidad\UMG JALAPA\3 SEMESTRE\PROGRAMACION 1\Proyectos-Csharp\LeerTeclado\obj\Debug\netcoreapp3.1\LeerTeclado.genruntimeconfig.cache
